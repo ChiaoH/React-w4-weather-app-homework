@@ -103,7 +103,7 @@ export default function Weather() {
             target="_blank"
             rel="noreferrer"
           >
-            npm view react-scripts version Wu-chiao Huang
+            Wu-chiao Huang
           </a>
           . Photo by
           <a href="https://unsplash.com/@paulberthelon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
