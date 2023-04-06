@@ -79,6 +79,7 @@ export default function App() {
                 <a
                   href="https://github.com/ChiaoH/weather-app-w7-final-2"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Open-source code
                 </a>
@@ -86,6 +87,7 @@ export default function App() {
                 <a
                   href="https://www.linkedin.com/in/wu-chiao-huang-642a07255/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Wu-chiao Huang
                 </a>
